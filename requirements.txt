@@ -68,7 +68,7 @@ nornir==2.4.0
 nxapi-plumbing==0.5.2
 openpyxl==3.0.3
 packaging==20.1
-paramiko==2.7.1
+paramiko==2.10.1
 parso==0.6.2
 passlib==1.7.2
 pathspec==0.7.0
